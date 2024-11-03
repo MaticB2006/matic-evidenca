@@ -52,7 +52,7 @@ function LoginPage() {
 
               <Form onSubmit={handleLogin}>
                 <Form.Group controlId="formBasicEmail">
-                  <Form.Label>Email Address</Form.Label>
+                  <Form.Label>Email</Form.Label>
                   <Form.Control
                     type="email"
                     placeholder="Enter email"
